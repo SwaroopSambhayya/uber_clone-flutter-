@@ -1,10 +1,10 @@
 # uber_clone
 
-Uber clone built in flutter, this is not full fledged app but mainly bult for learning purpose.
+Uber clone built in flutter, this is not full fledged app but mainly built for learning purpose.
 
 ![Image-1](https://github.com/SwaroopSambhayya/uber_clone-flutter-/blob/master/screen%20shots/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202021-11-12%20at%2012.20.11.png)
 ![IMAGE-2](https://github.com/SwaroopSambhayya/uber_clone-flutter-/blob/master/screen%20shots/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202021-11-12%20at%2012.22.08.png)
-![Image-3](https://github.com/SwaroopSambhayya/uber_clone-flutter-/blob/master/screen%20shots/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202021-11-12%20at%2012.22.41.png)
+![Image-3](hhttps://github.com/SwaroopSambhayya/uber_clone-flutter-/blob/master/screen%20shots/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202021-11-12%20at%2012.22.30.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
